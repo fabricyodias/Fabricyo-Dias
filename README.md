@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+[Seu+Nome]+%F0%9F%91%8B;Estudante+de+ADS+%7C+Futuro+PM;Comportamento+humano+%2B+Tecnologia+%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+[Fabricyo_Dias]+%F0%9F%91%8B;Estudante+de+ADS+%7C+Futuro+PM;Comportamento+humano+%2B+Tecnologia+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 ### 🧠 Quem sou eu?
 
 ```yaml
-nome:        "[Seu Nome]"
+nome:        "Fabricyo Dias"
 localização: "São Paulo, Brasil 🇧🇷"
 curso:       "Análise e Desenvolvimento de Sistemas"
 foco:        "Product Management · UX · Business Analysis"
@@ -74,7 +74,7 @@ buscando:    "Estágio em Produto em fintechs ou grandes empresas de tech"
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Instagram](https://img.shields.io/badge/@_surpreendente-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_surpreendente)
+[![Instagram](https://img.shields.io/badge/@_surpreendente-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/diasfabricyo)
 
 <div align="center">
 
